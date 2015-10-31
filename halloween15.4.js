@@ -933,7 +933,7 @@ debugger;
         c.drawImage(a.o, f, g, h, k, d, e, m, l)
     };
     var wc, G = function() {
-        tc.call(this, "/logos/2015/halloween15/", xc)
+        tc.call(this, "https://www.google.com.br/logos/2015/halloween15/", xc)
     };
     v(G, tc);
 	debugger;
@@ -3493,9 +3493,9 @@ debugger;
             c.send(this.v)
         }
     };
-    var R = new sf("/logos/2015/halloween15/fx", [new Q("ASCENDING_WHOOSH", 0, 886.871), new Q("BAT_FLAP_FLYBY", 1886.871, 2218.095), new Q("BAT_SQUEAK", 5104.966, 567.211), new Q("COLLECT_CANDY", 6672.177, 597.392), new Q("CROW_CALL", 8269.569, 1024.082), new Q("GHOST_HOWL", 10293.651, 2031.066), new Q("HIT_ENEMY", 13324.717, 818.798), new Q("HIT_GROUND", 15143.515, 918.209), new Q("JINGLE_BLUE_WITCH", 17061.723, 1702.358), new Q("JINGLE_GREEN_WITCH", 19764.082, 2405.057), new Q("JINGLE_RED_WITCH_V2", 23169.138, 2513.22), new Q("JINGLE_YELLOW_WITCH",
+    var R = new sf("https://www.google.com.br/logos/2015/halloween15/fx", [new Q("ASCENDING_WHOOSH", 0, 886.871), new Q("BAT_FLAP_FLYBY", 1886.871, 2218.095), new Q("BAT_SQUEAK", 5104.966, 567.211), new Q("COLLECT_CANDY", 6672.177, 597.392), new Q("CROW_CALL", 8269.569, 1024.082), new Q("GHOST_HOWL", 10293.651, 2031.066), new Q("HIT_ENEMY", 13324.717, 818.798), new Q("HIT_GROUND", 15143.515, 918.209), new Q("JINGLE_BLUE_WITCH", 17061.723, 1702.358), new Q("JINGLE_GREEN_WITCH", 19764.082, 2405.057), new Q("JINGLE_RED_WITCH_V2", 23169.138, 2513.22), new Q("JINGLE_YELLOW_WITCH",
             26682.358, 1190.408), new Q("UI_COUNTDOWN", 28872.766, 1727.392), new Q("WIN_BEST", 31600.159, 5509.864), new Q("WIN_OK", 38110.023, 3773.832), new Q("WIN_ROTTEN", 42883.855, 4404.785)]),
-        tf = new sf("/logos/2015/halloween15/loops", [new Q("CAULDRON_LOOP", 0, 2909.093), new Q("LOOPED_INTRO", 3909.093, 8470.59), new Q("LOOPED_LOOP", 13379.683, 11294.127), new Q("SELECT_WITCH", 25673.81, 5998.776), new Q("TALLY-LOOP", 32672.585, 1250), new Q("UI_TALLY", 34922.585, 1090.907)]);
+        tf = new sf("https://www.google.com.br/logos/2015/halloween15/loops", [new Q("CAULDRON_LOOP", 0, 2909.093), new Q("LOOPED_INTRO", 3909.093, 8470.59), new Q("LOOPED_LOOP", 13379.683, 11294.127), new Q("SELECT_WITCH", 25673.81, 5998.776), new Q("TALLY-LOOP", 32672.585, 1250), new Q("UI_TALLY", 34922.585, 1090.907)]);
     var uf = function() {};
     r(uf);
     var vf = {
